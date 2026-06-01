@@ -1,9 +1,25 @@
 # MBM ERP Backend
 
-MBM ERP sistemi için geliştirilmiş backend projesidir.  
+MBM(Mini-Business-Management) ERP sistemi için geliştirilmiş backend projesidir.  
 .NET 8 tabanlı, katmanlı mimari ile geliştirilmiş olup REST API + real-time (SignalR) + JWT authentication destekler.
 
 ---
+## ⚠️ Proje Durumu & Gelecek Güncellemeler
+
+Bu proje aktif olarak geliştirilmeye devam etmektedir.
+
+Mevcut sürüm **Versiyon 1 (MVP)** olup, yalnızca temel işlevleri içermektedir.  
+Sistem, ilerleyen süreçte kapsamlı güncellemeler alacaktır.
+
+### 🚀 Versiyon 2’de Planlananlar
+- Yapay zekâ (AI) entegrasyonu  
+- Akıllı öneri ve otomasyon sistemleri  
+- Performans ve mimari iyileştirmeler  
+- UI/UX geliştirmeleri  
+- Yeni modül ve özellik eklemeleri  
+
+### 🧠 Not
+Versiyon 2 ile birlikte projeye **AI destekli özellikler** eklenecektir. Bu özellikler mevcut sürümde bulunmamaktadır.
 
 ## 🚀 Kullanılan Teknolojiler
 
